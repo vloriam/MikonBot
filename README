@@ -1,0 +1,16 @@
+# WhatsApp Bot
+
+Este proyecto es un bot de WhatsApp que utiliza OpenAI para responder preguntas y generar contratos.
+
+## Instalación
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/whatsapp-bot.git
+
+cd whatsapp-bot
+
+npm install
+
+iNICIA EL BOT 
+node index.js
